@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 # Author - Taofeek Ajibade
 
 i = 0
