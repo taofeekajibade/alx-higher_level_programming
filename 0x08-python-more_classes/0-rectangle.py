@@ -5,5 +5,7 @@ An empty class that represents a rectangle
 
 
 class Rectangle:
-    """ create an empty rectangle object """
+    """
+    create an empty rectangle object
+    """
     pass
